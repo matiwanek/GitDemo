@@ -1,0 +1,14 @@
+2022-07-24 15:32:11,410 :INFO : pytestDemo.test_logging :Information statement
+2022-07-24 15:32:11,410 :WARNING : pytestDemo.test_logging :Something is in warning mode
+2022-07-24 15:32:11,411 :ERROR : pytestDemo.test_logging :A Major error has happened
+2022-07-24 15:32:11,411 :CRITICAL : pytestDemo.test_logging :Critical issue
+2022-07-24 15:41:54,076 :INFO : pytestDemo.BaseClass :Mateusz
+2022-07-24 15:41:54,076 :INFO : pytestDemo.BaseClass :mateusziwanek.com
+2022-07-24 15:44:11,238 :INFO : test_editProfile :Mateusz
+2022-07-24 15:44:11,238 :INFO : test_editProfile :mateusziwanek.com
+2022-07-24 15:45:56,767 :INFO : test_editProfile :Mateusz
+2022-07-24 15:45:56,767 :INFO : test_editProfile :mateusziwanek.com
+2022-07-24 15:45:56,772 :INFO : pytestDemo.test_logging :Information statement
+2022-07-24 15:45:56,773 :WARNING : pytestDemo.test_logging :Something is in warning mode
+2022-07-24 15:45:56,773 :ERROR : pytestDemo.test_logging :A Major error has happened
+2022-07-24 15:45:56,773 :CRITICAL : pytestDemo.test_logging :Critical issue
